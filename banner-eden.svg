@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fffaf5"/>
+      <stop offset="1" stop-color="#f6f1fb"/>
+    </linearGradient>
+    <clipPath id="c"><rect width="1200" height="300" rx="28"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <path d="M0 210 C 200 150, 380 270, 600 215 S 1000 150, 1200 205 L1200 300 L0 300 Z" fill="#cfeee3" opacity="0.75"/>
+    <path d="M0 240 C 220 190, 420 290, 650 245 S 1020 195, 1200 245 L1200 300 L0 300 Z" fill="#dcd3f3" opacity="0.8"/>
+    <path d="M0 268 C 240 235, 460 300, 700 270 S 1040 240, 1200 272 L1200 300 L0 300 Z" fill="#f8d9cc" opacity="0.9"/>
+    <circle cx="1040" cy="70" r="46" fill="#dcd3f3" opacity="0.55"/>
+    <circle cx="1110" cy="120" r="22" fill="#cfeee3" opacity="0.8"/>
+    <circle cx="975" cy="125" r="14" fill="#f8d9cc" opacity="0.9"/>
+  </g>
+  <text x="80" y="135" font-family="Helvetica, Arial, sans-serif" font-size="78" font-weight="700" fill="#2f3556">Eden Kompel</text>
+  <rect x="80" y="165" width="800" height="48" rx="24" fill="#ffffff" opacity="0.85"/>
+  <text x="108" y="197" font-family="Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#454f84" textLength="744" lengthAdjust="spacingAndGlyphs">Industrial Engineering &amp; Management · Ben-Gurion University</text>
+</svg>
